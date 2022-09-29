@@ -18,6 +18,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="batch-2" options="-parameters" />
+      <module name="batch-6.main" options="--add-modules java.base" />
     </option>
   </component>
 </project>
